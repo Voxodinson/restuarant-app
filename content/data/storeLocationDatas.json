@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Boston Harbor Islands",
+    "location": "Boston Harbor Islands, 15 State Street, Suite 1100, Boston",
+    "openTime": "Monday - Saturday 10:30 AM - 9:00 PM ",
+    "sundayOpenTime": "Sunday - 12:00 PM - 9:00 PM",
+    "phone": "(713) 814-7100",
+    "email": "pokebarharborislands@gmail.com",
+    "image": "https://s3-alpha-sig.figma.com/img/d15c/fa48/61aecc88476c20a0e2ee67c22b8e1645?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nlJaYFzotjxbiDXZ0ARrBR2IAfsFmMcdKaXkiRhsxZIp1PGiFTFtLma2RpsNhoN8nUMJ1SJ-UEi2ZY3tgbd4CUpyEzoWzNqAVK1vc5n4tKIClE4XFrD3CfJdoPESJXOBeuyU30lxQlYY8uMqnVmA78K3Id4fLEVp1rem2zBlro~k9YKT-1ElzpQKie-jPp-UkoN9IDQz1NWaa-uboTitVlpiqoWvM6D-apU6TdvRvQtbg6nxcmd2XcMRZwdi99hoDzH6jMjHqjzfJRQj1msW5ydkLDRrVS1V8BqDtrT1Gc7pgUhcJvAWIkyLqvvUjmSu1g1Hu~WY5y~6hN1toU9rXA__"
+  },
+  {
+    "id": 2,
+    "name": " Boylston",
+    "location": "827 Boylston St, Boston",
+    "openTime": "Monday - Saturday 10:30 AM - 9:00 PM ",
+    "sundayOpenTime": "Sunday - 12:00 PM - 9:00 PM",
+    "phone": "(715) 941-6647",
+    "email": "pokebarboylston@gmail.com",
+    "image": "https://s3-alpha-sig.figma.com/img/b611/81c2/857e65465e7dcee1bceec854867234a4?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KcUZHxT96v5iDNyg18mO5Gtk7nYtySxrv~7EVfN4oBHlpVuYgXtRXFMmk5yNdtClhLAjs-ZsqBLv89t4uyv0skE~Wm~AfTY59L3eQhnTCfvCPIf~M9l6WziSNTjRzdxo3gYJR6CUOUkkynBXiEur5d6Xt~e8NQxB4EH~TqQz9h78rT5atKzav7bA2AJ~YSseNQJQiNBzT91K7kHZa5Tit5dVWBbZVCW6bTTWfy9lGhLN~uM28x2RWAgfbgSvCojK92bniChvdSZffnZ3zsVprl2fjFgJH-6ZVKjHIdsIxhfnd33lXb5vjFMwkF5MEztPiYz0P7t-xvKET5Bbug1RgQ__"
+  },
+  {
+    "id": 3,
+    "name": "Congress",
+    "location": "372 Congress St, Boston ",
+    "openTime": "Monday - Saturday 10:30 AM - 9:00 PM ",
+    "sundayOpenTime": "Sunday - 12:00 PM - 9:00 PM",
+    "phone": "(803) 832-8595",
+    "email": "pokebarcongress@gmail.com",
+    "image": "https://s3-alpha-sig.figma.com/img/45cc/1022/431f74ed0abc33a0bceabc2737914e02?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NnQWuUw0t0oT3lv014uufDiMmCStdCBRV17-EYxLjcWh40~T5x4v3GUFPvVgzKHg9MisZubJBVT5bZUSE1JoWwDGe8flsXg3~0~Lu-RVs-cq5uwiF2ODT3rdysw-yCGg6iMGS160k4uk2~VtLZ6WK2uP9Q3yjONTdqRfsH289EbxiAMOR-pBhy4sY2H-FA4ilMLlu~0fG0m14IdAucLx-qukTsUHeoTSshAdpXVgxIc15MBwTCwHFS~TojXCpuklmXORJa9qV6~GME1ltygMlAib28A-wZw7azitQ9Y2~mW4NS3J9CZGgGPwzAY8ytAWYDYMrX7i2JOTibExYi8YDA__"
+  },
+  {
+    "id": 4,
+    "name": "Kendall Square",
+    "location": "1 Kendall Square, Boston",
+    "openTime": "Monday - Saturday 10:30 AM - 9:00 PM ",
+    "sundayOpenTime": "Sunday - 12:00 PM - 9:00 PM",
+    "phone": "(719) 582-8228",
+    "email": "pokebarkendallsquare@gmail.com",
+    "image": "https://s3-alpha-sig.figma.com/img/4510/5b89/b14d2ade0f1a8febae093c2fa9c313f3?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=lvb25e4bIO7UBlqSOzSvUQ2fXv2Ko3~sPMrph7HWs1Sdd6JIgSoFMX48cQLvQkHDsLzIyE6z6v4vJWJrucXi-u1ojtqXCYt9AIqe9V8qbuN5GXhiWVw4XsHGH4cRKWpQvnDDEMuz5ch5alZcJbGaqNIx3Cq8odHf1IkZLozQboR80auUG~~j26vFSMORz4JoePnBTkfU6IhJmdvkFQmO220~SB7lyQdijgGslB-~2Sj6k9IMyxuXIJ-y2KAFWRBZtplcXe2~OXAZEl7l7aC2LcK6Df5ucV4Bckq6qnGqe0g5EwhkVuKMu3gi0NvHunEpZwuwH-DiuZ6mZkXo17HbWQ__"
+  },
+  {
+    "id": 5,
+    "name": "487 Cambridge",
+    "location": "487 Cambridge St, Allston, Boston",
+    "openTime": "Monday - Saturday 10:30 AM - 9:00 PM ",
+    "sundayOpenTime": "Sunday - 12:00 PM - 9:00 PM",
+    "phone": "(806) 472-1493",
+    "email": "pokebarcambridge@gmail.com",
+    "image": "https://s3-alpha-sig.figma.com/img/507f/da56/fae933aec8d9bdae3b9b3e02082f5505?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=juyJqJ9k-uZc3GQwgmCtKH70KeUFBK8XvR7ZJBMXNFxqAfaHiFX14z-KUoxEFq81amJ0fiFb0bRImyN9dr17T14qGt8Pseu1fnh0VqafkvK4jCQpAuMMtmymkm5Z3ls-KkTfhTjSEWRtY5FyDUoINiUqSyrjmvZU1InyggUBndFrhrMhe7liPSnabfWarimafjIH-gFB5RwInK9vbkNJ4ijAxppswV26qnHNrS0tXv2ciQpUaISyieaoBu4v2VuFlvmykwufL5NR7t5DbtKn-jGiIUwHVCcoRCglBoLqVbULWy9hhVYvbYkt1hs95t7sjUdYVR~mzwD0oANQzBpvog__"
+  },
+  {
+    "id": 6,
+    "name": "Haviland",
+    "location": "1 Haviland St, Boston, MA 02115",
+    "openTime": "Monday - Saturday 10:30 AM - 9:00 PM",
+    "sundayOpenTime": " Sunday - 12:00 PM - 9:00 PM",
+    "phone": "(610) 743-8021",
+    "email": "pokebarhaviland@gmail.com",
+    "image": "https://s3-alpha-sig.figma.com/img/93b9/07d8/e85a37138c9fc5decd7e0a8755b9b888?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=i7I4UhUMOvm-6amc4zEwhBa1FLPwpqnUvrMONVqvPYNLDR2~V1g3y-TEL~syVUd84FKJwORrlIPJazvv~jFPDVCWVcD0IncYXiD2tqk0lTvUVVcljGoiNArkrBtvvGWDhYuCnvMNdgaONPoDeIr2JDYMVLPNYVbLKtbY9e1EtoNdsHQDg4FVY6z7GrI51UTFlJuwIc75a9hFfJQZWKVC7~K~ijiOHf2qo8EFX0zIZEFecyaVv7FMeVNmyRtXeAgfxxsAUR-lsSnbSB43TvwFRadKFyfeg28wE4cG5g131Wg4Tid0Ybah8qPzEBRmWTfMTEOZHEiiXN~eUliePBB5gA__"
+  }
+]

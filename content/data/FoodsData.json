@@ -1,0 +1,231 @@
+[
+  {
+    "id": "1",
+    "name": "California Crunch Bowl",
+    "price": 10,
+    "quantity": 1,
+    "type": "signature",
+    "image": "https://s3-alpha-sig.figma.com/img/8c14/4073/01d3892d4a9d6581d8e53941bf47fb66?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SsPEzzz8ATqWbhFemlrXsK8nGTcn4oHSBXobv6MxfQ2BR0kzhd6lt5iWYzWYpkXO1uemmrVpgivI4B9JlFUJC~llLWii4aFAxRAZlDwAl1yvCh4RP1i87Id~SkVw3qtLB-8kzeVwQMMezn3i3Bno2WDxwhuA92Bhtgsxvi7T26Yn1yQqUeRFzKZUiREjdvoMyRlfsRvhppGRvwtb103vfOMCSDPq61NFjFp~rkCpew7eCR0GW4bIxd4AUwON4FDBURGpr0DL29KFk~XUAbnC9jtnFIs1KOBTtc5LK6Qd2MUd48KI03GOK4wHXw-L~czqDHXABYaoxRR4uS81GwS-wQ__",
+    "ingredient": "Shrimp • Crab • Cucumber • Green Onion • Carrot • Edamame • Avocado • Soy Sauce • Tempura Flakes • Spicy Mayo Drizzle",
+    "baseFoodSelect": [
+      { "base": "White Rice" },
+      { "base": "Brown Rice" },
+      { "base": "Salad" },
+      { "base": "Noddles" },
+      { "base": "Half and Half (White Rice and Brown Rice)" },
+      { "base": "Half and Half (White Rice and Salad)" },
+      { "base": "Half and Half (Brown Rice and Salad)" },
+      { "base": "Half and Half (Noodles and Salad)" }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Rainbow Bowl",
+    "price": 10,
+    "quantity": 1,
+    "type": "signature",
+    "image": "https://s3-alpha-sig.figma.com/img/5b3e/7be2/114aa9214b766b51b213ebde293a0968?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fInthl-zFhfSivH-Tg9G-KK7EkJSChb0~q18Htm9zCkB8zvUvw1o19iXBUY72vibCIpfZsZad08UTjjaZN2Z~pc7taUafpxsDR2kC4BAT3qGQ7pdchuM5hWGGLHpzfyofJonwU1HLkO8E-Dy-qAiW7CobK9c1KvE779nRXkZux2Dx6yAC6c75Y9ZjBxE8jxxXRbNx8TJ1N5siMEmblPafI0O5AwmrYRdCZe94CdqWCfCyJGBSkXGbYoAwYmpf9lnO6eMnYB8n7FkSUybmb5wMJpszf8Wvk0E0ogOM8fsm0w71bcAOAGjRMew~z4KJATkF9cf7I2x3uuuD0QtRDGYCw__",
+    "ingredient": "Crab • Salmon* • Avocado • Cucumber • Pineapple • Carrot • Sesame Seeds • House Sauce",
+    "baseFoodSelect": [
+      { "base": "White Rice" },
+      { "base": "Brown Rice" },
+      { "base": "Salad" },
+      { "base": "Noddles" },
+      { "base": "Half and Half (White Rice and Brown Rice)" },
+      { "base": "Half and Half (White Rice and Salad)" },
+      { "base": "Half and Half (Brown Rice and Salad)" },
+      { "base": "Half and Half (Noodles and Salad)" }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Volcano Bowl",
+    "price": 10,
+    "quantity": 1,
+    "type": "signature",
+    "image": "https://s3-alpha-sig.figma.com/img/9143/ac79/7996e8d5803d68b81d0a17dc135b5d26?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ijLTvHZUMWTDy~breNPnb9KttbBT7YA4s-wg1iwnWTTNCFDMOwRDJNesOQv9WlocCEOWWrxckVyMe8YXV-4g2aqsdH~WP9QRwVjxBdIAUmQp3IYGLvW5gjhPL6JROSenDVsK1ONPFCUfr5HMg76V7ODXis5ryse8f5~OAXWKVS4Gs3xPYs0JMDi2exGZeK4ZXes3JA3Es~n22Ybbum8QCj5reJneeQJ0BjLulAoUJX6PozWAbBOZbjRqMtBwnjG6KO8WTuOglGpvstPNzsaSu08TQI0OLUys70741zx458Et4--tfjdhTW~eI2KJSw2O7Ex5aiehLjuUCcVodDRe5g__",
+    "ingredient": "Spicy Salmon* • Spicy Tuna* • Green Onion • Cabbage • Cucumber • Carrot • Jalapeno • Ginger",
+    "baseFoodSelect": [
+      { "base": "White Rice" },
+      { "base": "Brown Rice" },
+      { "base": "Salad" },
+      { "base": "Noddles" },
+      { "base": "Half and Half (White Rice and Brown Rice)" },
+      { "base": "Half and Half (White Rice and Salad)" },
+      { "base": "Half and Half (Brown Rice and Salad)" },
+      { "base": "Half and Half (Noodles and Salad)" }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Tuna lover's Bowl",
+    "price": 10,
+    "quantity": 1,
+    "type": "signature",
+    "image": "https://s3-alpha-sig.figma.com/img/ef8e/0f8c/5a0520fde40f4b497ce4108437d9630e?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Wh4bfalvn6RCADmhFNq~dwUzaErU8eoHnOdRcQoqgwddPLpBPMUjC4PmuvRregkgbc9iUMLfr~~GsCs1pLrnoi3NBkivw3PDfkvE4xcQomziDm8DUJ4~ogyCKT6EuZ6NZ61-Sj~UxmgW3ixFLPktHvSoEtEeG4FdxyJIx~gGJB-mpYmAEROHB-yBhiVsgS9R0HNhMrrq3GK9PlNiCkKuW6VbGtIov96Duud0mUcc50ufeRb9Kwrc5GmiScoe3wwrXjUZD98lhGSVeeysw6hyeavm5CPGfsB0cTJq6gd2LmxSE6rlh8Z545csWUaryx~0MGxJN-dES6WlL8i1dxBIDw__",
+    "ingredient": "Tuna* • Ground Spicy Tuna* • Avocado • Carrot •Cucumber • Edamame • Watermelon • Radish ",
+    "baseFoodSelect": [
+      { "base": "White Rice" },
+      { "base": "Brown Rice" },
+      { "base": "Salad" },
+      { "base": "Noddles" },
+      { "base": "Half and Half (White Rice and Brown Rice)" },
+      { "base": "Half and Half (White Rice and Salad)" },
+      { "base": "Half and Half (Brown Rice and Salad)" },
+      { "base": "Half and Half (Noodles and Salad)" }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Dynamite Bowl",
+    "price": 10,
+    "quantity": 1,
+    "type": "",
+    "image": "https://s3-alpha-sig.figma.com/img/374e/1fd0/756b33e8b0d010ee9338656123fe380f?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=B9qUQfCs12aCyN-hwxT6CN9fm9Jwd1opXXqzAMSW0zwu-NDA4w64cecx~-u8vDOw72IlC6JbST5-RaXu7BEx25ZNM2D6dcQKz1h3imWb2-hXg-4dtpaUaZ-6i4O9pCClXvzM9QXu9sPLpjFgXhGjdPuZqRpOiBbLhP~ibydQcI7I981olCNBckKSNofKZkMRuUOnpQeGddP7zNb~kFpfU6ApnTTYQdlM9ay0MtWngh-aVL~SdsES-ty0BWCT8~Q3T6gEi~4z62-PveYtWxsoAR7CFRaHt0KrLFQR9jfakF0d9SSe7IntJYj8E-w6m8cOyd8gLJIDnUaHQnXQMiUPXg__",
+    "ingredient": "Tuna* • Shrimp • Carrot • Mango • Jalapeno • Cucumber • Chili Flakes • Sesame Seeds ",
+    "baseFoodSelect": [
+      { "base": "White Rice" },
+      { "base": "Brown Rice" },
+      { "base": "Salad" },
+      { "base": "Noddles" },
+      { "base": "Half and Half (White Rice and Brown Rice)" },
+      { "base": "Half and Half (White Rice and Salad)" },
+      { "base": "Half and Half (Brown Rice and Salad)" },
+      { "base": "Half and Half (Noodles and Salad)" }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "The Duke Bowl",
+    "price": 10,
+    "quantity": 1,
+    "type": "",
+    "image": "https://s3-alpha-sig.figma.com/img/5c18/6c4d/954280d12da6bdc63d6744f2edf1603d?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=I56a2jwY-8k3OQc3Ob~gy0wZuQ8CRBuUkbjnMUgdnmE3PrrUywZpAnqVbPAKd09e2hGA4Q2jF5Awfsyh0UhUXtZhoyaf7DLyGg572rUIMa8kJ622PpJaYm1M7UqC2smI5jGCWqz21lmO3WnRHLlQzeImGYjTEtq9T5OdNT0DPykCt2gaUnfnu~1hZRCV97GWUvRXnWCvcTW63FDNJgiYECdJ7lGResYUXlEjCnLr4GmAjkyr6NtpBi~dN2Wfgoc1lV6YWdNSdAuEXGCv7hkPeV29CzjaoD~TxTPqVY7pN0fgimeUBAXIkwBcvKDsLs~FSfElBxPMJFeN-mNbwRAVrg__",
+    "ingredient": "Tuna* •  Salmon •  Shrimp • Seaweed • Salad • Jalapeno • Sweet Onion • Edamame • Cucumber",
+    "baseFoodSelect": [
+      { "base": "White Rice" },
+      { "base": "Brown Rice" },
+      { "base": "Salad" },
+      { "base": "Noddles" },
+      { "base": "Half and Half (White Rice and Brown Rice)" },
+      { "base": "Half and Half (White Rice and Salad)" },
+      { "base": "Half and Half (Brown Rice and Salad)" },
+      { "base": "Half and Half (Noodles and Salad)" }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Aloha Vegan Bowl",
+    "price": 10,
+    "quantity": 1,
+    "type": "",
+    "image": "https://s3-alpha-sig.figma.com/img/d64e/f234/12247a3232c2ef7cb2ac7f7084027c5b?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BeGc~C~pAUTf04dpS0BdZGnUAw7BlOLbMqzIkZai1IN1JtBHLHocSbWpr6Uvs8cfcIYZnlRupD1xOwJ7bk3boTLpGfwc3y-4OyAsPmYlZzBSI6Yv3-ye-dX3xTouc7UhSgDtn7ywARJ~nKp0y6NmiNLVu6pfvYMG9i8u50ptVyRokweFou6otUWpf2sGU1aDDdExpMlWurtjhOz3pMrwor2eIdmDmPVl-I9iu3UzQjRKSgfe8Iv7zTLe3TKbPf9PvJXGaSDAyTJbejY7lkOELD2CI-woN7MQdn87TOOmx~POl0bvW3nI-2574mKogcZxvFExbR~uiNhqtInQQBrouQ__",
+    "ingredient": "Tofu • Avocado • Carrot • Cabbage • Edamame • Watermelon Radish • Red Onion • Ginger",
+    "baseFoodSelect": [
+      { "base": "White Rice" },
+      { "base": "Brown Rice" },
+      { "base": "Salad" },
+      { "base": "Noddles" },
+      { "base": "Half and Half (White Rice and Brown Rice)" },
+      { "base": "Half and Half (White Rice and Salad)" },
+      { "base": "Half and Half (Brown Rice and Salad)" },
+      { "base": "Half and Half (Noodles and Salad)" }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Salmon Bowl",
+    "price": 10,
+    "quantity": 1,
+    "type": "",
+    "image": "https://s3-alpha-sig.figma.com/img/c327/5db4/0652d02db5c8769cec45630a823fecf9?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TbcHV1Cf-5Ruy9X8N-uaKzXl~JRaauoBK5Lx53PoJADxqLUPLjBrs9hoO5PCm1~Na3i84N9UDQXqj5-GFOTJQ7HcfPIrJYDIzJ9lcJwGQZ8c3j-a07~vIvsZSVRSIBCpk9r2Y9tDGPKI63Oa0S9qz96plyVUxC06M0YqOZDMxI8RKi~KOHMitDNWt6eUhTmIg-TQlB~RGCbRpcHIJymsW-p6T80y-L~GzqQIW0209mEYOWGPSNz50~FWJL3G1SJo1QCQtt8SF70y-SdPtG6ezV0MpY7uB9MXy2m9LN8BM4jZsx~pwg~wurCtBDWayDh0yM7JMRnFJFrI4EPz1Baxrg__",
+    "ingredient": "Spicy Salmon* • Green Onion • Avocado • Cucumber  • Ginger • House Sauce mixed with light sriracha • Furikake • Lemon",
+    "baseFoodSelect": [
+      { "base": "White Rice" },
+      { "base": "Brown Rice" },
+      { "base": "Salad" },
+      { "base": "Noddles" },
+      { "base": "Half and Half (White Rice and Brown Rice)" },
+      { "base": "Half and Half (White Rice and Salad)" },
+      { "base": "Half and Half (Brown Rice and Salad)" },
+      { "base": "Half and Half (Noodles and Salad)" }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Dynamite Bowl",
+    "price": 10,
+    "quantity": 1,
+    "type": "",
+    "image": "https://s3-alpha-sig.figma.com/img/374e/1fd0/756b33e8b0d010ee9338656123fe380f?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=B9qUQfCs12aCyN-hwxT6CN9fm9Jwd1opXXqzAMSW0zwu-NDA4w64cecx~-u8vDOw72IlC6JbST5-RaXu7BEx25ZNM2D6dcQKz1h3imWb2-hXg-4dtpaUaZ-6i4O9pCClXvzM9QXu9sPLpjFgXhGjdPuZqRpOiBbLhP~ibydQcI7I981olCNBckKSNofKZkMRuUOnpQeGddP7zNb~kFpfU6ApnTTYQdlM9ay0MtWngh-aVL~SdsES-ty0BWCT8~Q3T6gEi~4z62-PveYtWxsoAR7CFRaHt0KrLFQR9jfakF0d9SSe7IntJYj8E-w6m8cOyd8gLJIDnUaHQnXQMiUPXg__",
+    "ingredient": "Tuna* • Shrimp • Carrot • Mango • Jalapeno • Cucumber • Chili Flakes • Sesame Seeds ",
+    "baseFoodSelect": [
+      { "base": "White Rice" },
+      { "base": "Brown Rice" },
+      { "base": "Salad" },
+      { "base": "Noddles" },
+      { "base": "Half and Half (White Rice and Brown Rice)" },
+      { "base": "Half and Half (White Rice and Salad)" },
+      { "base": "Half and Half (Brown Rice and Salad)" },
+      { "base": "Half and Half (Noodles and Salad)" }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "The Duke Bowl",
+    "price": 10,
+    "type": "",
+    "quantity": 1,
+    "image": "https://s3-alpha-sig.figma.com/img/5c18/6c4d/954280d12da6bdc63d6744f2edf1603d?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=I56a2jwY-8k3OQc3Ob~gy0wZuQ8CRBuUkbjnMUgdnmE3PrrUywZpAnqVbPAKd09e2hGA4Q2jF5Awfsyh0UhUXtZhoyaf7DLyGg572rUIMa8kJ622PpJaYm1M7UqC2smI5jGCWqz21lmO3WnRHLlQzeImGYjTEtq9T5OdNT0DPykCt2gaUnfnu~1hZRCV97GWUvRXnWCvcTW63FDNJgiYECdJ7lGResYUXlEjCnLr4GmAjkyr6NtpBi~dN2Wfgoc1lV6YWdNSdAuEXGCv7hkPeV29CzjaoD~TxTPqVY7pN0fgimeUBAXIkwBcvKDsLs~FSfElBxPMJFeN-mNbwRAVrg__",
+    "ingredient": "Tuna* •  Salmon •  Shrimp • Seaweed • Salad • Jalapeno • Sweet Onion • Edamame • Cucumber",
+    "baseFoodSelect": [
+      { "base": "White Rice" },
+      { "base": "Brown Rice" },
+      { "base": "Salad" },
+      { "base": "Noddles" },
+      { "base": "Half and Half (White Rice and Brown Rice)" },
+      { "base": "Half and Half (White Rice and Salad)" },
+      { "base": "Half and Half (Brown Rice and Salad)" },
+      { "base": "Half and Half (Noodles and Salad)" }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Aloha Vegan Bowl",
+    "price": 10,
+    "quantity": 1,
+    "type": "",
+    "image": "https://s3-alpha-sig.figma.com/img/d64e/f234/12247a3232c2ef7cb2ac7f7084027c5b?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BeGc~C~pAUTf04dpS0BdZGnUAw7BlOLbMqzIkZai1IN1JtBHLHocSbWpr6Uvs8cfcIYZnlRupD1xOwJ7bk3boTLpGfwc3y-4OyAsPmYlZzBSI6Yv3-ye-dX3xTouc7UhSgDtn7ywARJ~nKp0y6NmiNLVu6pfvYMG9i8u50ptVyRokweFou6otUWpf2sGU1aDDdExpMlWurtjhOz3pMrwor2eIdmDmPVl-I9iu3UzQjRKSgfe8Iv7zTLe3TKbPf9PvJXGaSDAyTJbejY7lkOELD2CI-woN7MQdn87TOOmx~POl0bvW3nI-2574mKogcZxvFExbR~uiNhqtInQQBrouQ__",
+    "ingredient": "Tofu • Avocado • Carrot • Cabbage • Edamame • Watermelon Radish • Red Onion • Ginger",
+    "baseFoodSelect": [
+      { "base": "White Rice" },
+      { "base": "Brown Rice" },
+      { "base": "Salad" },
+      { "base": "Noddles" },
+      { "base": "Half and Half (White Rice and Brown Rice)" },
+      { "base": "Half and Half (White Rice and Salad)" },
+      { "base": "Half and Half (Brown Rice and Salad)" },
+      { "base": "Half and Half (Noodles and Salad)" }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Salmon Bowl",
+    "price": 10,
+    "quantity": 1,
+    "type": "",
+    "image": "https://s3-alpha-sig.figma.com/img/c327/5db4/0652d02db5c8769cec45630a823fecf9?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TbcHV1Cf-5Ruy9X8N-uaKzXl~JRaauoBK5Lx53PoJADxqLUPLjBrs9hoO5PCm1~Na3i84N9UDQXqj5-GFOTJQ7HcfPIrJYDIzJ9lcJwGQZ8c3j-a07~vIvsZSVRSIBCpk9r2Y9tDGPKI63Oa0S9qz96plyVUxC06M0YqOZDMxI8RKi~KOHMitDNWt6eUhTmIg-TQlB~RGCbRpcHIJymsW-p6T80y-L~GzqQIW0209mEYOWGPSNz50~FWJL3G1SJo1QCQtt8SF70y-SdPtG6ezV0MpY7uB9MXy2m9LN8BM4jZsx~pwg~wurCtBDWayDh0yM7JMRnFJFrI4EPz1Baxrg__",
+
+    "ingredient": "Spicy Salmon* • Green Onion • Avocado • Cucumber  • Ginger • House Sauce mixed with light sriracha • Furikake • Lemon",
+    "baseFoodSelect": [
+      { "base": "White Rice" },
+      { "base": "Brown Rice" },
+      { "base": "Salad" },
+      { "base": "Noddles" },
+      { "base": "Half and Half (White Rice and Brown Rice)" },
+      { "base": "Half and Half (White Rice and Salad)" },
+      { "base": "Half and Half (Brown Rice and Salad)" },
+      { "base": "Half and Half (Noodles and Salad)" }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 20049663,
+    "name": "Coca Cola",
+    "price": 2,
+    "image": "https://s3-alpha-sig.figma.com/img/80cd/5907/4d9dbfcbcdb0c53cc9064e2f801f2a60?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=j1f9~6gfHo75UZ6VOPRn1jhRL9qfX0aacdKnvcWJLMyb0RZc3mjfGxtSynx4k7QwXsA-Rrt7ZWePqgtnIozwlOEMVjHuD~7bgi1J4Gy3KyCjhhbVEw-vOp8DDbWA39opk6~R2R09IOBSDsu5I-PaMinYQRKh5lZL27Xwk2-GkP6X8vmAeqYPEziQwtyPZfzJPhwd0D1CgEeKR6QhY~2Xz3xvTGv9QBqoxUwLhCP4ZjZVlb5h1anwhJuW~yKQLhMT6KBkOaL7WRzgMCUj7dwdbyA7UkUVznGnKuBMfLD7jvrlhLBEU~gBtwlITIbVf~573fjBDIBmgQvjxWY6OZ8aHA__"
+  },
+  {
+    "id": 200493,
+    "name": "Water",
+    "price": 1,
+    "image": "https://s3-alpha-sig.figma.com/img/9fdf/2850/0d4862fe45ae845fcb1f55502e4430a1?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=iXB42v-YeXLQ3LKod17~SHhziVi-3A70QxB9h5uwdm9U2kQ55~l9RhWswbEfV7UdBJ9ozYE6dy73OWQh327WgHAkc01MaXMd6C0g6xqPlXQZRox6qTpP6V~BQzDf-Dzblq9xvgE57WjiaecBIkKrWG38zzV6-cZctbXjoq5eUpkjSscBwwVRReWk40o-C04RFFRXmnw~NDrYBrQRz8i-~1omuTo-k9PGx1M~-zgwl1JLXsqeANqikUPaR0ch1HzMWs6CwIlcHL33odFCWkYRHE6QETwu~kN836b9Zjvn4SjFFe--afk95j-bPYRGJxnVCZpWuImorEwvlD0XXG4~EA__   "
+  },
+  {
+    "id": 23300493,
+    "name": "Sweet Tea",
+    "price": 2,
+    "image": "https://s3-alpha-sig.figma.com/img/e077/3cdf/715176b42386ea98046f501f2a03d435?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NIb2JDcWT06KDaWuHcL0WH0Mgo4VfULHHrNqX6FFg0uDK5-vp2eT8fws7zkXkJeNHibjoHWnf-HeXRbORcy5tLPRZNofQi10CMwv8RspZhYTS2q4BGTjurcKOnNPeA55LYElM3XET7JeUF5aoAxRxlrMrBK-NBGYdpUxNpyUlhjCNUk3ZZIHIxpJy6PlTgyJllre-rrRZkiChbgjDFEJuYUFn0~5ajxtTpWAhzRtGeyPfYNM58adfU7OxrX403a~ZwIJ5khR7qh08M2SnDFyRCB9KdVOdqrfNrqj5TJobCe3M8kCyL0WOah5ZYzBeobl6ss9WKTDQLjDNzds7DBbQA__"
+  },
+  {
+    "id": 2002493,
+    "name": "Lemonade",
+    "price": 2,
+    "image": "https://s3-alpha-sig.figma.com/img/7d59/fbc3/96242ba149b43c37b0454dc8bab797a3?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hGx4CysUPXil2X3rept53uM54J6YMq9QyE21J~sIifFbB-SALAORa0R5BrgrJAxt1srdyHURrD7VtWMCU7RypzZt4LJG-6foxIqJOEHUABURueX0aPUbC5IrCEIHSmokmBOZXgQ0XJ93Aaua3RUL~y~3mjV1M-54h1dQbxbQQQdtlpyF17a8LnG43gsozIuqRy4t6ZpPb8E~zy~BQ-aGUeZ6ncMGZUtyee9oT4kKgojCsYbXdTfpP~sT-TD9pifEB~5wBbRayomedHX8yHtkkBTh7ISX3~7~9scYpbsrv4mpq4Qc-FXBcCdNVBrGS7KlmyW7XopMkLoZix01pmZVoQ__"
+  }
+]
